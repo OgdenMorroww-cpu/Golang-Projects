@@ -1,6 +1,6 @@
 package main
 
-import "modules/modules/functions"
+import "modules/modules/task1"
 
 // "modules/modules/conditions"
 // "modules/modules/loops"
@@ -27,5 +27,7 @@ func main() {
 	// loops.Get_loops()
 	// task1.MyTask()
 	// functions.My_func()
-	functions.Test_func()
+	// functions.Test_func()
+
+	task1.Get_planet_age_difference()
 }
