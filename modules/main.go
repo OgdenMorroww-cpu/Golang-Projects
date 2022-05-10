@@ -1,6 +1,6 @@
 package main
 
-import "modules/modules/task1"
+import "modules/modules/structures"
 
 // "modules/modules/conditions"
 // "modules/modules/loops"
@@ -29,5 +29,10 @@ func main() {
 	// functions.My_func()
 	// functions.Test_func()
 
-	task1.Get_planet_age_difference()
+	// task1.Get_planet_age_difference()
+	// mypointers.Example_ptr()
+	// mypointers.Get_pointers()
+	// structures.My_structs()
+	structures.Example_structs()
+
 }
