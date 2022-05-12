@@ -1,6 +1,8 @@
 package main
 
-import "modules/modules/structures"
+import (
+	"modules/modules/variadics"
+)
 
 // "modules/modules/conditions"
 // "modules/modules/loops"
@@ -33,6 +35,12 @@ func main() {
 	// mypointers.Example_ptr()
 	// mypointers.Get_pointers()
 	// structures.My_structs()
-	structures.Example_structs()
+	// structures.Example_structs()
+	// arrays.Array_type()
+	// arrays.Array_slice()
+	// arrays.Get_range()
+	// arrays.Mini_projects()
+	// mymaps.Go_maps()
+	variadics.Variadics_fun()
 
 }
